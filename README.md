@@ -8,4 +8,4 @@ Overview : in this app i used the following API to get exchange rate data https:
  
 # Test d'application : 
 
-![UI_CURRENCY_CONVERTER](https://user-images.githubusercontent.com/74155712/210156570-dbccea0a-acf6-48ba-acaf-2145892abd5c.png)
+![TEST](https://user-images.githubusercontent.com/74155712/210156591-ed05d499-a01f-4bdf-bd71-fa56315c7f62.png)
