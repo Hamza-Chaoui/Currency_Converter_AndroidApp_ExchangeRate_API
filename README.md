@@ -1,6 +1,11 @@
 # CurrencyConverter
 
 Overview : in this app i used the following API to get exchange rate data https://exchangerate.host/#/
+To run this project you should first add the following dependency : implementation 'com.android.volley:volley:1.2.1'
+under the manifets directory consider adding the following 2 permissions in AndroidManifest.xml file
+
+1) <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+2) <uses-permission android:name="android.permission.INTERNET"/>
 
 # Interface Utilisateur : 
 
