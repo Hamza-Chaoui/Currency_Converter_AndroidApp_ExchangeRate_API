@@ -6,8 +6,10 @@ To run this project you should first add the following dependency : implementati
 
 under the manifets directory consider adding the following 2 permissions in AndroidManifest.xml file
 
-<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-<uses-permission android:name="android.permission.INTERNET"/>
+First permission : uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"
+
+Second permission : uses-permission android:name="android.permission.INTERNET"
+  
 
 # Interface Utilisateur : 
 
